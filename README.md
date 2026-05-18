@@ -32,12 +32,8 @@ Home Screen
 <img src="screenshots/edit.png" width="300">
 
 
- State Management
-
+   State Management
 Provider was used for state management to efficiently manage UI updates and application data.
-
-
- Networking
-
+   Networking
 The http package was used for making REST API requests.
 
